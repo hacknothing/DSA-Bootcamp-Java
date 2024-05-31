@@ -31,7 +31,7 @@
 all.              //done
 26. Addition Of Two Numbers              //done
 
-### Intermediate Java Programs
+### Intermediate Java Programs              //done
 1. Factorial Program In Java
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
