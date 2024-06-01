@@ -1,4 +1,4 @@
-![image](https://github.com/hacknothing/DSA-Bootcamp-Java/assets/131798142/b3dc3e42-564d-4abc-8078-2a8174743b18)# [Video Link](https://youtu.be/n60Dn0UsbEk)
+# [Video Link](https://youtu.be/n60Dn0UsbEk)
 
 ## Submit the following on your Leetcode profile itself.
 
